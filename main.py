@@ -40,6 +40,4 @@ def make_json(csvFilePath, jsonFilePath):
 
 
 csvFilePath = r'/Users/lucho/Desktop/Equipo.csv'
-jsonFilePath = r'/Users/lucho/Desktop/out.json'
-
-make_json(csvFilePath, jsonFilePath)
+make_json(csvFilePath, r'./out.json')
