@@ -1,5 +1,4 @@
 import csv
-import json
 import sys
 import os.path
 from firebase_admin import firestore, credentials, initialize_app
